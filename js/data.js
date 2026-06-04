@@ -13,7 +13,7 @@ const diseasesDB = {
   'ringworms': { 
       title: 'Ringworm (Kurap)', 
       icon: 'ti-circles', color: '#FFF3E0', iconColor: '#E65100', 
-      imgUrl: 'https://www.pdinsurance.co.nz/wp-content/uploads/2023/01/How-to-Get-Rid-of-Ringworm-in-Cats-08.jpg', // Ganti dengan foto ringworm
+      imgUrl: 'https://preview.redd.it/found-this-under-my-cats-ear-tonight-it-isnt-a-scab-afaik-v0-l3ow8l1f4w711.jpg?width=1080&crop=smart&auto=webp&s=83da2fcfd317511691b8754362e5baaa4a9c4611', // Ganti dengan foto ringworm
       articleLink: 'https://www.halodoc.com/artikel/jamur-kucing-seperti-apa-sih-waspadai-cirinya?srsltid=AfmBOoqOzYbrvsbs0l_QSRx9hStg5WQ4YPyGXKdqqio95RhRyquehxPm',
       desc: 'Infeksi jamur menular yang membentuk pola bercak melingkar botak pada kulit kucing (bisa menular ke manusia).',
       cause: 'Infeksi jamur dermatofita (tersering <i>Microsporum canis</i>) yang memakan keratin kulit dan bulu.',
