@@ -177,19 +177,19 @@ npx serve
 
 ### Home Page
 
-![Home](assets/home.png)
+![Home](assets/home.PNG)
 
 ### Real-Time Detection
 
-![Camera](assets/camera.png)
+![Camera](assets/camera.PNG)
 
 ### Image Upload
 
-![Upload](assets/upload.png)
+![Upload](assets/upload.PNG)
 
 ### Detection Result
 
-![Result](assets/result.png)
+![Result](assets/result.PNG)
 
 ---
 
