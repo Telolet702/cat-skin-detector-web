@@ -1,0 +1,32 @@
+<div class="topbar">
+  <button class="icon-btn" onclick="go('page-home')" aria-label="Ke Beranda"><i class="ti ti-home" aria-hidden="true"></i></button>
+  <div class="topbar-title">Hasil Analisis</div>
+  <div style="width:40px"></div>
+</div>
+<div style="flex:1; overflow-y:auto;">
+  <div class="result-image-container">
+    <canvas id="result-canvas"></canvas>
+  </div>
+  <div style="padding:20px;">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:16px">
+      <div>
+        <div style="font-size:13px; color:var(--color-text-secondary); margin-bottom:4px">Terdeteksi:</div>
+        <div class="result-title" id="result-disease">Memuat...</div>
+      </div>
+      <div style="text-align:right">
+        <div style="font-size:13px; color:var(--color-text-secondary); margin-bottom:4px">Tingkat Keyakinan:</div>
+        <div style="font-size:18px; font-weight:700; color:var(--color-text-primary)" id="result-conf">0%</div>
+      </div>
+    </div>
+    <div class="conf-bar-bg">
+      <div class="conf-bar-fill" id="conf-bar" style="width:0%"></div>
+    </div>
+    <div style="background:#f8fafc; border-radius:12px; padding:16px; margin-bottom:20px">
+      <div style="font-size:14px; font-weight:600; margin-bottom:8px; display:flex; align-items:center; gap:6px">
+        <i class="ti ti-file-description" aria-hidden="true"></i> Deskripsi Singkat
+      </div>
+      <div style="font-size:13px; color:var(--color-text-secondary); line-height:1.5" id="result-desc">...</div>
+    </div>
+    <button class="btn btn-outline" id="btn-detail-info" style="width:100%">Lihat Informasi Lengkap</button>
+  </div>
+</div>
