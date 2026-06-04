@@ -212,9 +212,9 @@ The final model achieved the following evaluation results:
 
 | Metric | Score |
 |----------|----------|
-| mAP@50 | 88.99% |
-| Precision | High |
-| Recall | High |
+| mAP@50 | 93.3% |
+| Precision | 92.1% |
+| Recall | 87.3% |
 
 These results indicate that the model can accurately identify and localize cat skin diseases in images.
 
