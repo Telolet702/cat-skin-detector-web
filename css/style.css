@@ -394,8 +394,11 @@ ul.disease-list li {
 
 .upload-zone img { 
   width: 100%; 
+  max-height: 350px; /* BATASI TINGGI MAKSIMAL GAMBAR */
+  object-fit: contain; /* Pastikan gambar menyesuaikan ruang tanpa terpotong */
   display: block; 
   border-radius: var(--border-radius-lg); 
+  background-color: #f8fafc; /* Memberi warna latar jika gambar tidak penuh */
 }
 
 .menu-item { 
