@@ -35,7 +35,7 @@ const diseasesDB = {
   'healthy': { 
       title: 'Kulit Sehat', 
       icon: 'ti-heart', color: '#E8F5E9', iconColor: '#1B5E20', 
-      imgUrl: 'https://scontent.fcgk53-1.fna.fbcdn.net/v/t39.30808-6/344379049_562765092636098_1921602636214604117_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFnccS8u0_aRp7c7uZW5Lx07OuTcGmR9c_s65NwaZH1z0eXPKpeVZaPO4_BJG532QWToS8-R_kTvWhH7MquUiuB&_nc_ohc=PiUQfTeJMi0Q7kNvwHhmsZk&_nc_oc=Adqsy1JWq58LTrxExxzSZTAoOFNJ2nLlLpW6j-iM-1TS6nQiXlH7K7aH4JEs-z-3QJo&_nc_zt=23&_nc_ht=scontent.fcgk53-1.fna&_nc_gid=b-tIXivcuTRI2j_bINtUMw&_nc_ss=7b2a8&oh=00_Af9E2yKpyRsOMdkg3wH9QnAhpx9TqWVMUNplckd0PYgfbg&oe=6A24AA77', // Foto kucing sehat
+      imgUrl: 'https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31070633/Inilah-Makanan-yang-Terbaik-untuk-Kucing-Himalaya.jpg', // Foto kucing sehat
       articleLink: 'https://www.halodoc.com/artikel/jaga-kulit-kucing-sehat-bebas-gatal-dan-bulu-tetap-indah?srsltid=AfmBOor7n9Q6VlxL4XWiomzb-TtlaTVs2N5o6smOkjRFD-wkzFYixCS6',
       desc: 'Kondisi kulit dan bulu kucing dalam keadaan sangat baik, bersih, dan terawat.',
       cause: 'Perawatan harian yang baik, nutrisi yang seimbang, dan kebersihan yang terjaga.',
